@@ -1,0 +1,42 @@
+{
+   "users": [
+      {
+         "id": 1,
+         "username": "lily",
+         "tasklists": [
+            "grocery run",
+            "bake cake"
+         ]
+      },
+      {
+         "id": 2,
+         "username": "zoe",
+         "tasklists": []
+      },
+      {
+         "id": 3,
+         "username": "micah",
+         "tasklists": [
+            "kill grandma"
+         ]
+      }
+   ],
+   "tasks": [
+      {
+         "id": 1,
+         "description": "apples",
+         "tasklist_name": "kill grandma",
+         "completed": false,
+         "important": false
+      },
+      {
+         "id": 3,
+         "description": "follow steps",
+         "tasklist_name": "bake cake",
+         "completed": false,
+         "important": false
+      }
+   ],
+   "user_id_counter": 13,
+   "task_id_counter": 6
+}
